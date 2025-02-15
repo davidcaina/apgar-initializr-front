@@ -16,17 +16,29 @@ Clone o repositório e acesse a pasta do projeto:
 ```sh
 git clone https://github.com/seu-repo/vue-project.git
 cd vue-project
+```
 
 ## Instalando dependencies
+```sh
 npm install
+```
 
 ## Executando Projeto
+```sh
 npm run dev
+```
 ou
+
+```sh
 npm run serve
+```
 
 ## Build para produção
+```sh
 npm run build
+```
 
 ## Executar testes
+```sh
 npm run test
+```
