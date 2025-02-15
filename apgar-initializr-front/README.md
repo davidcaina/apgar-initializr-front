@@ -1,5 +1,32 @@
-# Vue 3 + Vite
+# Vue.js Project
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Este é um projeto Vue.js. Siga os passos abaixo para configurar e rodar o projeto.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 📌 Pré-requisitos
+
+Certifique-se de ter os seguintes itens instalados:
+
+- [Node.js](https://nodejs.org/) (Recomendado: Última versão LTS)
+- [Vue CLI](https://cli.vuejs.org/) (Opcional, caso utilize Vue CLI)
+
+## 🔧 Instalação
+
+Clone o repositório e acesse a pasta do projeto:
+
+```sh
+git clone https://github.com/seu-repo/vue-project.git
+cd vue-project
+
+## Instalando dependencies
+npm install
+
+## Executando Projeto
+npm run dev
+ou
+npm run serve
+
+## Build para produção
+npm run build
+
+## Executar testes
+npm run test
